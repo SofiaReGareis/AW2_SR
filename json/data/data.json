@@ -1,0 +1,317 @@
+[
+    {
+        "nombre": "El Resplandor",
+        "duracion": 146,
+        "clasificacion": 8.4,
+        "genero": "Terror",
+        "estreno": 1980
+    },
+    {
+        "nombre": "Scary Movie",
+        "duracion": 88,
+        "clasificacion": 6.2,
+        "genero": "Comedia",
+        "estreno": 2000
+    },
+    {
+        "nombre": "Terminator 2: El juicio final",
+        "duracion": 137,
+        "clasificacion": 8.5,
+        "genero": "Acción",
+        "estreno": 1991
+    },
+    {
+        "nombre": "It",
+        "duracion": 135,
+        "clasificacion": 7.3,
+        "genero": "Terror",
+        "estreno": 2017
+    },
+    {
+        "nombre": "The Hangover",
+        "duracion": 100,
+        "clasificacion": 7.7,
+        "genero": "Comedia",
+        "estreno": 2009
+    },
+    {
+        "nombre": "Die Hard",
+        "duracion": 132,
+        "clasificacion": 8.2,
+        "genero": "Acción",
+        "estreno": 1988
+    },
+    {
+        "nombre": "El exorcista",
+        "duracion": 122,
+        "clasificacion": 8.0,
+        "genero": "Terror",
+        "estreno": 1973
+    },
+    {
+        "nombre": "Superbad",
+        "duracion": 113,
+        "clasificacion": 7.6,
+        "genero": "Comedia",
+        "estreno": 2007
+    },
+    {
+        "nombre": "Mad Max: Furia en la carretera",
+        "duracion": 120,
+        "clasificacion": 8.1,
+        "genero": "Acción",
+        "estreno": 2015
+    },
+    {
+        "nombre": "Psicosis",
+        "duracion": 109,
+        "clasificacion": 8.5,
+        "genero": "Terror",
+        "estreno": 1960
+    },
+    {
+        "nombre": "¡Huye!",
+        "duracion": 104,
+        "clasificacion": 7.7,
+        "genero": "Terror",
+        "estreno": 2017
+    },
+    {
+        "nombre": "The Office",
+        "duracion": 202,
+        "clasificacion": 8.9,
+        "genero": "Comedia",
+        "estreno": 2005
+    },
+    {
+        "nombre": "Duro de matar",
+        "duracion": 132,
+        "clasificacion": 8.2,
+        "genero": "Acción",
+        "estreno": 1988
+    },
+    {
+        "nombre": "El sexto sentido",
+        "duracion": 107,
+        "clasificacion": 8.1,
+        "genero": "Terror",
+        "estreno": 1999
+    },
+    {
+        "nombre": "Reservoir Dogs",
+        "duracion": 99,
+        "clasificacion": 8.3,
+        "genero": "Acción",
+        "estreno": 1992
+    },
+    {
+        "nombre": "Shaun of the Dead",
+        "duracion": 99,
+        "clasificacion": 7.9,
+        "genero": "Comedia",
+        "estreno": 2004
+    },
+    {
+        "nombre": "Mujer bonita",
+        "duracion": 119,
+        "clasificacion": 7.0,
+        "genero": "Comedia",
+        "estreno": 1990
+    },
+    {
+        "nombre": "Pulp Fiction",
+        "duracion": 154,
+        "clasificacion": 8.9,
+        "genero": "Acción",
+        "estreno": 1994
+    },
+    {
+        "nombre": "El planeta de los simios",
+        "duracion": 112,
+        "clasificacion": 8.0,
+        "genero": "Acción",
+        "estreno": 1968
+    },
+    {
+        "nombre": "Actividad Paranormal",
+        "duracion": 86,
+        "clasificacion": 6.3,
+        "genero": "Terror",
+        "estreno": 2007
+    },
+    {
+        "nombre": "Los cazafantasmas",
+        "duracion": 105,
+        "clasificacion": 7.8,
+        "genero": "Comedia",
+        "estreno": 1984
+    },
+    {
+        "nombre": "Aliens: El regreso",
+        "duracion": 137,
+        "clasificacion": 8.3,
+        "genero": "Acción",
+        "estreno": 1986
+    },
+    {
+        "nombre": "An American Werewolf in London",
+        "duracion": 97,
+        "clasificacion": 7.5,
+        "genero": "Terror",
+        "estreno": 1981
+    },
+    {
+        "nombre": "Supercool",
+        "duracion": 93,
+        "clasificacion": 6.9,
+        "genero": "Comedia",
+        "estreno": 2007
+    },
+    {
+        "nombre": "Depredador",
+        "duracion": 107,
+        "clasificacion": 7.8,
+        "genero": "Acción",
+        "estreno": 1987
+    },
+    {
+        "nombre": "Pesadilla en Elm Street",
+        "duracion": 91,
+        "clasificacion": 7.5,
+        "genero": "Terror",
+        "estreno": 1984
+    },
+    {
+        "nombre": "Napoleon Dynamite",
+        "duracion": 96,
+        "clasificacion": 6.9,
+        "genero": "Comedia",
+        "estreno": 2004
+    },
+    {
+        "nombre": "Depredador 2",
+        "duracion": 108,
+        "clasificacion": 6.3,
+        "genero": "Acción",
+        "estreno": 1990
+    },
+    {
+        "nombre": "Poltergeist",
+        "duracion": 114,
+        "clasificacion": 7.3,
+        "genero": "Terror",
+        "estreno": 1982
+    },
+    {
+        "nombre": "Borat",
+        "duracion": 84,
+        "clasificacion": 7.3,
+        "genero": "Comedia",
+        "estreno": 2006
+    },
+    {
+        "nombre": "The Shining",
+        "duracion": 146,
+        "clasificacion": 8.4,
+        "genero": "Terror",
+        "estreno": 1980
+    },
+    {
+        "nombre": "American Pie",
+        "duracion": 95,
+        "clasificacion": 7.0,
+        "genero": "Comedia",
+        "estreno": 1999
+    },
+    {
+        "nombre": "Rambo: First Blood",
+        "duracion": 93,
+        "clasificacion": 7.7,
+        "genero": "Acción",
+        "estreno": 1982
+    },
+    {
+        "nombre": "A Nightmare on Elm Street",
+        "duracion": 91,
+        "clasificacion": 7.5,
+        "genero": "Terror",
+        "estreno": 1984
+    },
+    {
+        "nombre": "Men in Black",
+        "duracion": 98,
+        "clasificacion": 7.3,
+        "genero": "Acción",
+        "estreno": 1997
+    },
+    {
+        "nombre": "The Blair Witch Project",
+        "duracion": 81,
+        "clasificacion": 6.5,
+        "genero": "Terror",
+        "estreno": 1999
+    },
+    {
+        "nombre": "Super Troopers",
+        "duracion": 100,
+        "clasificacion": 7.1,
+        "genero": "Comedia",
+        "estreno": 2001
+    },
+    {
+        "nombre": "The Matrix",
+        "duracion": 136,
+        "clasificacion": 8.7,
+        "genero": "Acción",
+        "estreno": 1999
+    },
+    {
+        "nombre": "The Texas Chain Saw Massacre",
+        "duracion": 83,
+        "clasificacion": 7.5,
+        "genero": "Terror",
+        "estreno": 1974
+    },
+    {
+        "nombre": "Hot Fuzz",
+        "duracion": 121,
+        "clasificacion": 7.8,
+        "genero": "Acción",
+        "estreno": 2007
+    },
+    {
+        "nombre": "Zombieland",
+        "duracion": 88,
+        "clasificacion": 7.6,
+        "genero": "Comedia",
+        "estreno": 2009
+    },
+    {
+        "nombre": "Jurassic Park",
+        "duracion": 127,
+        "clasificacion": 8.1,
+        "genero": "Acción",
+        "estreno": 1993
+    },
+    {
+        "nombre": "Scream",
+        "duracion": 111,
+        "clasificacion": 7.3,
+        "genero": "Terror",
+        "estreno": 1996
+    },
+    {
+        "nombre": "Anchorman: The Legend of Ron Burgundy",
+        "duracion": 94,
+        "clasificacion": 7.2,
+        "genero": "Comedia",
+        "estreno": 2004
+    },
+    {
+        "nombre": "Die Hard with a Vengeance",
+        "duracion": 128,
+        "clasificacion": 7.6,
+        "genero": "Acción",
+        "estreno": 1995
+    }
+]
